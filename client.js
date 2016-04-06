@@ -33,5 +33,3 @@ function pulse() {
 		console.log('setting 11 to LOW');
 	}, 500);
 }
-
-// console.log('Pin 11 is set to:', rpio.read(11) ? 'on' : 'off');
